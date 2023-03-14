@@ -1,0 +1,20 @@
+
+h1{
+    font-size: 50px;
+    color: crimson;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+#Head
+{
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    
+
+}
+[type='text']
+{
+    margin: 50px 50px 0px 50px;
+}
